@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>My JavaScript-page<title>
+</head>
+
+<body>
+<Script>
+document.write("Welcome to my world!!!");
+</Script>
+</body>
+</html>
